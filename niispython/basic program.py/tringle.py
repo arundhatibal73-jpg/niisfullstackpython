@@ -1,3 +1,5 @@
+"""Write a Python program to calculate area of a triangle."""
+
 print("enter base")
 b=float(input())
 print("enter height")

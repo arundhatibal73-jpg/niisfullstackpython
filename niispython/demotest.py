@@ -34,3 +34,49 @@ c=b
 b=a
 a=t
 print("after swapping a=",a,"b=",b,"c=",c)
+
+
+a=5
+b=7
+c=3
+a=b+c
+c=a*3
+b=a//4
+print(a,b,c)
+a=b>c
+c=5 or b
+b=c>3 and b>7
+print(a,b,c)
+
+
+print(bin(25))
+print(oct(25))
+print(hex(25))
+print(oct(265))
+print(hex(265))
+
+print(0b101011)
+print(0o27)
+print(0xc3)
+
+
+a=10
+b=3
+c=a- ~b-1
+print(c)
+
+
+
+print("enter rectangle length")
+l=int(input())
+print("enter rectangle breadth")
+b=int(input())
+ar=l*b
+pr=2*(l+b)
+print("length",l)
+print("breadth",b)
+print("area",ar)
+print("perimeter",pr)
+
+
+
