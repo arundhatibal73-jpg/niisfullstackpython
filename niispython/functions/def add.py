@@ -1,7 +1,6 @@
 def add():
-	print("enter a number")
+	print("enter 2 number")
 	no1=int(input())
-	print("enter a number")
 	no2=int(input())
 	s=no1+no2
 	print("sum=",s)
