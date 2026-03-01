@@ -8,3 +8,8 @@ def sical():
 	si=p*r*t/100
 	print("simple intrest=",si)
 sical()	
+
+
+
+
+
