@@ -19,8 +19,6 @@ print("main end")
 
 
 
-
-
 print("main start")
 try:
 	print(10//0)
