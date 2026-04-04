@@ -10,7 +10,7 @@ if no>=0:
 print("enter a number")
 no=0
 int(input())
-if no>=0:
+if no<=0:
 	print("-ve")
 
 
