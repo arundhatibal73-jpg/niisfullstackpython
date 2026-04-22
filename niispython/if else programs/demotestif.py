@@ -7,8 +7,9 @@ if no!=0:
      else:
         print("-ve")
 
-syn2:
 
+
+syn2:
 if c1:
     if c2:
         true part

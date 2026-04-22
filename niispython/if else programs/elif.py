@@ -1,4 +1,4 @@
-a=5
+a=3
 if a>4:
 	print("hi")
 elif a!=4:

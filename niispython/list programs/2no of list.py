@@ -9,7 +9,6 @@ for i in range(0,s,1):
         print("enter element ",j+1)
         x.append(int(input()))
     L.append(x)
-
 print("elements are")
 for i in range(0,len(L),1):
     for j in range(0,len(L[i]),1):
